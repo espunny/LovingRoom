@@ -67,10 +67,10 @@ A continuación hay capturas de pantalla que muestran la interfaz al entrar en u
 
 - Pantalla de bienvenida (petición de nombre):
 
-![Pantalla de bienvenida](assets/screenshots/welcome.png)
+![Pantalla de bienvenida](assets/screenshots/welcome.jpg)
 
 - Interfaz del anfitrión (control y carga de YouTube):
 
-![Interfaz anfitrión](assets/screenshots/host_view.png)
+![Interfaz anfitrión](assets/screenshots/host_view.jpg)
 
 > Nota: coloca las imágenes proporcionadas en la carpeta `assets/screenshots/` con los nombres `welcome.png` y `host_view.png`. Si prefieres otros nombres, actualiza las rutas anteriores.
