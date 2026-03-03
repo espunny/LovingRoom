@@ -60,3 +60,17 @@ Para ejecutar este proyecto, necesitas un entorno de servidor web básico:
 └── peliculas/ # Carpeta autogenerada (AQUÍ VAN TUS VÍDEOS)
 ├── pelicula_1.mp4
 └── pelicula_1.vtt # Subtítulo (opcional)
+
+## 📺 Ejemplo de funcionamiento
+
+A continuación hay capturas de pantalla que muestran la interfaz al entrar en una sala y la vista del anfitrión con opciones para cargar un vídeo de YouTube o seleccionar una película local.
+
+- Pantalla de bienvenida (petición de nombre):
+
+![Pantalla de bienvenida](assets/screenshots/welcome.png)
+
+- Interfaz del anfitrión (control y carga de YouTube):
+
+![Interfaz anfitrión](assets/screenshots/host_view.png)
+
+> Nota: coloca las imágenes proporcionadas en la carpeta `assets/screenshots/` con los nombres `welcome.png` y `host_view.png`. Si prefieres otros nombres, actualiza las rutas anteriores.
